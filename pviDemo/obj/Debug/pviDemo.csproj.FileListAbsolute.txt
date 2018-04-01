@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\pviDemo\pviDemo\bin\Debug\pviDemo.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\pviDemo\pviDemo\bin\Debug\pviDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\pviDemo\pviDemo\bin\Debug\pviDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\pviDemo\pviDemo\obj\Debug\pviDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\pviDemo\pviDemo\obj\Debug\pviDemo.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\pviDemo\pviDemo\obj\Debug\pviDemo.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\pviDemo\pviDemo\obj\Debug\pviDemo.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\pviDemo\pviDemo\obj\Debug\pviDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\pviDemo\pviDemo\obj\Debug\pviDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\pviDemo\pviDemo\obj\Debug\pviDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\pviDemo\pviDemo\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\pviDemo\pviDemo\bin\Debug\itextsharp.xml
